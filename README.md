@@ -38,7 +38,7 @@ fun()
 
 
 ## Output:
-![OUTPUT]()
+![OUTPUT](https://github.com/Shaik-sameer-AIML/Square-root-of-a-number/blob/main/square%20root.JPG?raw=true)
 
 
 ## Result:
