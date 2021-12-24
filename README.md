@@ -16,12 +16,11 @@ To write a program to find the square root of a number.
 
 ## Program:
 ```
-/*
+
 Program to find the square root for the given number(newton's method) using function.
 Developed by: S.Sameer
 RegisterNumber:  21003881
-*/
-```
+
 def fun():
  
     x=int(input())
@@ -35,7 +34,7 @@ def fun():
     print("Square root of the number:",x)
 
 fun()
-
+```
 
 ## Output:
 ![OUTPUT](https://github.com/Shaik-sameer-AIML/Square-root-of-a-number/blob/main/square%20root.JPG?raw=true)
